@@ -1,0 +1,5 @@
+flowers/*
+flowers_split/*
+*.pkl
+*.h5
+*.zip
